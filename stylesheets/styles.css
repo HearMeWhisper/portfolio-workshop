@@ -1,0 +1,23 @@
+#profile{
+    margin-top: 7.5%;
+}
+    
+
+#skills{
+    border-left: 2px solid black;
+}
+
+#jobs{
+    padding-left: 5%;
+}
+.progress{
+    margin-bottom: 2%;
+}
+
+#contactForm{
+    margin: 0 auto;
+   
+}
+.form-control{
+    border: 2px solid black;
+}
